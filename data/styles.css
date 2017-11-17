@@ -27,6 +27,8 @@
 }
 ._图片 {
 }
+.placeholder {
+}
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -80,7 +82,14 @@
 }
 .line {
 }
+.droplist {
+  color:#000000;
+  text-align:left;
+}
 .checkbox {
+  text-align:left;
+}
+.radio_button {
   text-align:left;
 }
 ._流程形状 {
@@ -99,4 +108,14 @@
 .flow_shape {
 }
 .box_3 {
+}
+.ellipse {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+._形状 {
+}
+.icon1 {
 }
