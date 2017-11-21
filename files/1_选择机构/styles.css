@@ -2395,3 +2395,12 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u1493 {
+  position:absolute;
+  left:50px;
+  top:135px;
+  width:375px;
+  height:543px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
